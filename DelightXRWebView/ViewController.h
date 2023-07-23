@@ -1,14 +1,8 @@
-//
-//  ViewController.h
-//  DelightXRWebView
-//
-//  Created by Alexei Lashakov on 23/07/2023.
-//
-
 #import <UIKit/UIKit.h>
+#import <WebKit/WebKit.h>
 
 @interface ViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet WKWebView *webView;
 
 @end
-
