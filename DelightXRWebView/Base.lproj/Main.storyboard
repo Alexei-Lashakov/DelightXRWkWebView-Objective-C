@@ -16,9 +16,9 @@
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <wkWebView contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ZrW-44-hWp">
-                                <rect key="frame" x="0.0" y="66" width="393" height="723"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <wkWebView contentMode="scaleToFill" fixedFrame="YES" id="ZrW-44-hWp">
+                                <rect key="frame" x="7" y="47" width="377" height="759"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <color key="backgroundColor" red="0.36078431370000003" green="0.38823529410000002" blue="0.4039215686" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <wkWebViewConfiguration key="configuration" allowsAirPlayForMediaPlayback="NO" allowsInlineMediaPlayback="YES" allowsPictureInPictureMediaPlayback="NO">
                                     <audiovisualMediaTypes key="mediaTypesRequiringUserActionForPlayback" none="YES"/>
@@ -35,7 +35,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-124.42748091603053" y="3.5211267605633805"/>
+            <point key="canvasLocation" x="-429.7709923664122" y="28.169014084507044"/>
         </scene>
     </scenes>
     <resources>
